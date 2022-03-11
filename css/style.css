@@ -244,6 +244,12 @@ img {
 #reported{
   display: none;
 }
+h5{
+  color: blue;
+}
+p{
+  color: brown;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
